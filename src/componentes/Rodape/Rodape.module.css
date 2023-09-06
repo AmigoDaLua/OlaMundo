@@ -1,0 +1,18 @@
+.rodape {
+    background-color: black;
+    color: var(--branco);
+    padding: 2rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: .5rem;
+}
+
+.rodapeTexto a{
+    text-decoration: none;
+    color: #1875E8;
+}
+
+.rodapeTexto a:hover{
+    text-decoration: underline;
+}
